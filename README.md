@@ -1,1 +1,1 @@
-# .github
+# SHADOWED FOX - SEKCJA WEB DEV 2024 KNI
